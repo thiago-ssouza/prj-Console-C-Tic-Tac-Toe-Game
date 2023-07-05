@@ -20,7 +20,7 @@ Final Project - Algorithms and Programming
 <br/>
 Subject: Algorithms and Programming
 <br/>
-Third Semester: Winter 2022
+First Semester: Winter 2022
 <br/>
 College LaSalle
 <br/>
